@@ -1,0 +1,20 @@
+[{
+        "id": 1,
+        "name": "Nguyễn Duy Khanh",
+        "tel": "089999999989",
+        "permissions": 3
+    },
+    {
+        "id": 2,
+        "name": "Nguyễn Đức Khiêm",
+        "tel": "089999999989",
+        "permissions": 2
+    },
+    {
+        "id": 3,
+        "name": "Nguyễn Văn Luật",
+        "tel": "089999999989",
+        "permissions": 1
+    }
+
+]
